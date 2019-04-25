@@ -16,6 +16,7 @@ gem 'simple_form'
 gem 'uglifier'
 gem 'webpacker'
 gem 'nokogiri', '~> 1.10.3'
+gem 'rb-readline'
 
 group :development do
   gem 'web-console', '>= 3.3.0'
